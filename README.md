@@ -7,12 +7,12 @@
 
 ---
 
-### 👨‍💻 Giới thiệu nhanh
+### 👨‍💻 About Me
 
-- 🌱 Hiện đang học và phát triển ứng dụng với **Spring Boot** và **ReactJS**
-- 🌐 Đã từng làm việc với **Laravel**, **Flutter**, một chút **Firebase**
-- 🤝 Mở rộng kỹ năng lập trình backend và frontend toàn diện
-- 📫 Liên hệ: [hoaicalm@gmail.com](mailto:hoaicalm@gmail.com)
+- 🌱 Currently learning and building applications with **Spring Boot** and **ReactJS**
+- 🌐 Previously worked with **Laravel**, **Flutter**, and some **Firebase**
+- 🤝 Aiming to improve full-stack development skills
+- 📫 Contact me: [hoaicalm@gmail.com](mailto:hoaicalm@gmail.com)
 
 ---
 
@@ -36,7 +36,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
---
+---
 
 ### 📈 GitHub Stats
 
@@ -45,10 +45,10 @@
 
 ---
 
-### 📫 Kết nối với mình
+### 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/devtino2605)
 
 ---
 
-💬 *“Code để học, học để code – mỗi ngày đều tiến bộ một chút là đủ!”*
+💬 *"Code to learn, learn to code – improving a little every day is more than enough!"*
