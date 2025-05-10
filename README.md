@@ -47,7 +47,6 @@
 
 ### 📫 Kết nối với mình
 
-[![FaceBook]([https://www.facebook.com/hoang.hoai.3720190])
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/devtino2605)
 
 ---
